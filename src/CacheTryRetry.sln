@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheTryRetry.AppHost", "CacheTryRetry.AppHost\CacheTryRetry.AppHost.csproj", "{334AD2C4-AB9A-4CDD-ADC7-AC00AB2DE425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheTryRetry.AppHost", "CacheTryRetry.AppHost\CacheTryRetry.AppHost.csproj", "{334AD2C4-AB9A-4CDD-ADC7-AC00AB2DE425}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheTryRetry.ServiceDefaults", "CacheTryRetry.ServiceDefaults\CacheTryRetry.ServiceDefaults.csproj", "{DB90E57D-4249-49B2-A7A5-C25377966EA4}"
 EndProject

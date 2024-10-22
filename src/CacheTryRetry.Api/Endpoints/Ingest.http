@@ -1,0 +1,5 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+@CacheTryRetry.Api_HostAddress = https://localhost:7337
+
+POST {{CacheTryRetry.Api_HostAddress}}/api/ingest
+Accept: application/json
