@@ -6,7 +6,7 @@ namespace CacheTryRetry.Api.Endpoints
     {
         public static void AddIngestEndpoints(this WebApplication app) 
         {
-            app.MapGet("/api/ingest", () =>
+            app.MapPost("/api/ingest", () =>
             {
                 return new IngestResponse()
                 {
